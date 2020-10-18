@@ -1,4 +1,2 @@
 # DeepLearning with TensorFlow
-Deep Learning exercises created by using Colaboratory. It will be updated weekly.
-
-Reference: IBM:DL0120EN course Lab exercises
+Deep Learning exercises from the IBM Deep Learning course (Reference: IBM:DL0120EN) and some additional exercises created by me.
